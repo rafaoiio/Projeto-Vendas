@@ -1,0 +1,29 @@
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\Aula l 01-04.exe.config
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\Aula l 01-04.exe
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\Aula l 01-04.pdb
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\MySql.Data.dll
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\System.Memory.dll
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\System.Buffers.dll
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto Vendas.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.CadastroLogin.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.Config.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.Form1.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.FormCliente.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.FormProduto.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.FormVendas.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.Principal.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula_l_01_04.Properties.Resources.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto Vendas.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto Vendas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto .C6F37862.Up2Date
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula l 01-04.exe
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Aula l 01-04.pdb
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto_Vendas.Properties.Resources.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto_Vendas.CadastroLogin.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto_Vendas.Form1.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto_Vendas.FormCliente.resources
+C:\Users\ACER\source\repos\Aula l 01-04\Aula l 01-04\obj\Debug\Projeto_Vendas.FormProduto.resources
